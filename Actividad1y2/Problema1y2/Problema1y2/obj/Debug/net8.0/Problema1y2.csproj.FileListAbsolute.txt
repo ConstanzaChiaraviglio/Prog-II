@@ -1,0 +1,14 @@
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.AssemblyInfoInputs.cache
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.AssemblyInfo.cs
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.csproj.CoreCompileInputs.cache
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.exe
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.deps.json
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.runtimeconfig.json
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.dll
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.pdb
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.dll
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\refint\Problema1y2.dll
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.pdb
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.genruntimeconfig.cache
+C:\Users\cotic\source\repos\Problema1y2\Problema1y2\obj\Debug\net8.0\ref\Problema1y2.dll
